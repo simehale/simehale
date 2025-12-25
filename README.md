@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simeon Haley</h1>
 <h3 align="center">A passionate frontend developer from South of Chicago</h3>
 
-- 🔭 I’m currently working on **website for a small business called Hydrowriting**
+- 🔭 I’m currently working on a **duplicate of Pacman using strictly html and javascript**
 
 - 🌱 I’m currently learning **Javascript refactoring**
 
